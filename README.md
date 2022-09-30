@@ -1,7 +1,7 @@
 ### Olá, eu sou o Junio Chaves!!! Seja bem vindo(a). 👋
 
 
-- 🔭 Estou procurando estágio para PCD em analise e desenvolvimento de sistemas. 
+- 🔭 Estou procurando estágio ou emprego para PCD em analise e desenvolvimento de sistemas. 
 - 🌱 Eu estou estudando na faculdade Wyden no curso Analise e desenvolvimento de sistemas.
  <div>
   <a href="https://github.com/13Junio-Innovating">
