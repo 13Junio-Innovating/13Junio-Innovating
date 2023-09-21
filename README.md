@@ -3,7 +3,7 @@
 
 - 🔭 Estou a procura de emprego para PCD, com intuito de me tornar um programador bem sucedido. 
 - 🌱 Eu estou estudando na faculdade Wyden no curso Analise e desenvolvimento de sistemas.
--  Estou estudando na Escola Kenzie Academy Brasil.
+- 🌱 Estou estudando na Escola Kenzie Academy Brasil.
 - Tenho sede de aprendizado, tenho paixão por desafios, gosto de criar e interagir com diversas pessoas com o foco em construir as melhores experiências para os clientes.
  <div>
   <a href="https://github.com/13Junio-Innovating">
