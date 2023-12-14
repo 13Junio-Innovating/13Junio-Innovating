@@ -5,6 +5,8 @@
 - 🌱 Eu estou estudando na faculdade Wyden no curso Analise e desenvolvimento de sistemas.
 - 🌱 Estou estudando na Escola Kenzie Academy Brasil.
 - Tenho sede de aprendizado, tenho paixão por desafios, gosto de criar e interagir com diversas pessoas com o foco em construir as melhores experiências para os clientes.
+- Para conferir alguns dos meus projetos:
+- Clique em projeto desejado > readme.md > link
  <div>
   <a href="https://github.com/13Junio-Innovating">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13Junio-Innovating&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
