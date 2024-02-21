@@ -4,10 +4,11 @@ Bem-vindo ao meu portfólio! 👋
 Objetivo Profissional
 Sou Junio Chaves, um entusiasta de programação em busca de oportunidades para contribuir com meu talento e crescer como desenvolvedor PCD.
 
-Experiência e Educação
-🔭 Procurando Emprego: Em busca de oportunidades para PCD como desenvolvedor.
-🎓 Educação:
-Analise e Desenvolvimento de Sistemas - Faculdade Wyden
+Experiência e Educação:
+
+- 🔭 Procurando Emprego: Em busca de oportunidades para PCD como desenvolvedor.
+- 🎓 Educação:
+Analise e Desenvolvimento de Sistemas - Faculdade Favip Wyden
 Estudos na Escola Kenzie Academy Brasil.
 Habilidades e Interesses
 Tenho sede de aprendizado, paixão por desafios e gosto de criar e interagir com diversas pessoas com foco em construir as melhores experiências para os clientes. Minhas habilidades incluem (lista suas habilidades aqui).
@@ -24,9 +25,9 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13Junio-Innovating&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   <p></p>
   <div> 
