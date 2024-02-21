@@ -1,22 +1,25 @@
 Portfólio de Junio Chaves
 Bem-vindo ao meu portfólio! 👋
 
-Objetivo Profissional
+Objetivo Profissional:
+
 Sou Junio Chaves, um entusiasta de programação em busca de oportunidades para contribuir com meu talento e crescer como desenvolvedor PCD.
 
 Experiência e Educação:
 
 - 🔭 Procurando Emprego: Em busca de oportunidades para PCD como desenvolvedor.
 - 🎓 Educação:
-Analise e Desenvolvimento de Sistemas - Faculdade Favip Wyden
-Estudos na Escola Kenzie Academy Brasil.
-Habilidades e Interesses
+- Analise e Desenvolvimento de Sistemas - Faculdade Favip Wyden
+- Escola Kenzie Academy Brasil.
+Habilidades e Interesses:
+
 Tenho sede de aprendizado, paixão por desafios e gosto de criar e interagir com diversas pessoas com foco em construir as melhores experiências para os clientes. Minhas habilidades incluem (lista suas habilidades aqui).
 
-Projetos Destacados
-Nome do Projeto 1: Breve descrição do projeto. Link para o Projeto
-Nome do Projeto 2: Breve descrição do projeto. Link para o Projeto
-Nome do Projeto 3: Breve descrição do projeto. Link para o Projeto
+Projetos Destacados:
+
+- Nome do Projeto 1: Breve descrição do projeto. Link para o Projeto
+- Nome do Projeto 2: Breve descrição do projeto. Link para o Projeto
+- Nome do Projeto 3: Breve descrição do projeto. Link para o Projeto
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
  <div>
