@@ -14,13 +14,21 @@ Experiência e Educação:
 
 Habilidades e Interesses:
 
-Tenho sede de aprendizado, paixão por desafios e gosto de criar e interagir com diversas pessoas com foco em construir as melhores experiências para os clientes. Minhas habilidades incluem (lista suas habilidades aqui).
+Tenho sede de aprendizado, paixão por desafios e gosto de criar e interagir com diversas pessoas com foco em construir as melhores experiências para os clientes. 
+
+Minhas habilidades incluem (HTML, CSS, JavaScript, TypeScript, React, Sass, Tailwind, Express, PostgreSQL).
 
 Projetos Destacados:
 
-- Nome do Projeto 1: Breve descrição do projeto. Link para o Projeto
-- Nome do Projeto 2: Breve descrição do projeto. Link para o Projeto
-- Nome do Projeto 3: Breve descrição do projeto. Link para o Projeto
+- Nome do Projeto 1:
+- Breve descrição do projeto.
+- https://hamburgueria-junio-chaves.vercel.app/
+- Nome do Projeto 2:
+- Breve descrição do projeto.
+- https://kenzie-hub-junio-chaves.vercel.app/
+- Nome do Projeto 3:
+- Breve descrição do projeto.
+- https://entrega-nu-kenzie-junio-chaves.vercel.app/
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
  <div>
@@ -28,7 +36,7 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13Junio-Innovating&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13Junio-Innovating&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
