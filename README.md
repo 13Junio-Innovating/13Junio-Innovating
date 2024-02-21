@@ -11,6 +11,7 @@ Experiência e Educação:
 - 🎓 Educação:
 - Analise e Desenvolvimento de Sistemas - Faculdade Favip Wyden
 - Escola Kenzie Academy Brasil.
+
 Habilidades e Interesses:
 
 Tenho sede de aprendizado, paixão por desafios e gosto de criar e interagir com diversas pessoas com foco em construir as melhores experiências para os clientes. Minhas habilidades incluem (lista suas habilidades aqui).
