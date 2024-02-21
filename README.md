@@ -1,12 +1,23 @@
-### Olá, eu sou o Junio Chaves!!! Seja bem vindo(a). 👋
+Portfólio de Junio Chaves
+Bem-vindo ao meu portfólio! 👋
 
+Objetivo Profissional
+Sou Junio Chaves, um entusiasta de programação em busca de oportunidades para contribuir com meu talento e crescer como desenvolvedor PCD.
 
-- 🔭 Estou a procura de emprego para PCD, com intuito de me tornar um programador bem sucedido. 
-- 🌱 Eu estou estudando na faculdade Wyden no curso Analise e desenvolvimento de sistemas.
-- 🌱 Estou estudando na Escola Kenzie Academy Brasil.
-- Tenho sede de aprendizado, tenho paixão por desafios, gosto de criar e interagir com diversas pessoas com o foco em construir as melhores experiências para os clientes.
-- Para conferir alguns dos meus projetos:
-- Clique em projeto desejado > readme.md > link
+Experiência e Educação
+🔭 Procurando Emprego: Em busca de oportunidades para PCD como desenvolvedor.
+🎓 Educação:
+Analise e Desenvolvimento de Sistemas - Faculdade Wyden
+Estudos na Escola Kenzie Academy Brasil.
+Habilidades e Interesses
+Tenho sede de aprendizado, paixão por desafios e gosto de criar e interagir com diversas pessoas com foco em construir as melhores experiências para os clientes. Minhas habilidades incluem (lista suas habilidades aqui).
+
+Projetos Destacados
+Nome do Projeto 1: Breve descrição do projeto. Link para o Projeto
+Nome do Projeto 2: Breve descrição do projeto. Link para o Projeto
+Nome do Projeto 3: Breve descrição do projeto. Link para o Projeto
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
  <div>
   <a href="https://github.com/13Junio-Innovating">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13Junio-Innovating&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
