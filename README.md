@@ -9,7 +9,7 @@ Experiência e Educação:
 
 - 🔭 Procurando Emprego: Em busca de oportunidades para PCD como desenvolvedor.
 - 🎓 Educação:
-- Analise e Desenvolvimento de Sistemas - Faculdade Favip Wyden
+- Analise e Desenvolvimento de Sistemas - Faculdade Unifavip Wyden
 - Escola Kenzie Academy Brasil.
 
 Habilidades e Interesses:
