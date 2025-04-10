@@ -24,8 +24,8 @@ Projetos Destacados:
 - Breve descrição do projeto.
 - https://developer-portifolio-junio-chaves.vercel.app/
 - Nome do Projeto 1:
-- https://pizzas-da-claudia.vercel.app/
 - Breve descrição do projeto.
+- https://pizzas-da-claudia.vercel.app/
 - Nome do Projeto 2:
 - Breve descrição do projeto.
 - https://hamburgueria-junio-chaves.vercel.app/
