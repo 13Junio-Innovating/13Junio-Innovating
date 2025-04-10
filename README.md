@@ -35,6 +35,9 @@ Projetos Destacados:
 - Nome do Projeto 4:
 - Breve descrição do projeto.
 - https://entrega-nu-kenzie-junio-chaves.vercel.app/
+- Nome do Projeto 5:
+- Breve descrição do projeto.
+- https://googlenegocio.vercel.app/
 
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! 😊
